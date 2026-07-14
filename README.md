@@ -58,7 +58,7 @@ SoundWave/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/SoundWave.git
+git clone https://github.com/noorulemana3-droid/SoundWave.git
 ```
 
 2. Navigate to the project folder
