@@ -1,4 +1,4 @@
-<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/bf865d7a-8e73-4e4d-9592-249722601c93" /># 🎵 SoundWave (Spotify Clone)
+# 🎵 SoundWave (Spotify Clone)
 
 A Spotify-inspired music streaming application built with **React Native** and **Expo Go**. This project was developed for learning purposes to practice mobile app development, responsive UI design, and navigation using React Native.
 
@@ -88,7 +88,7 @@ npx expo start
 Add screenshots of your application in a word file .
 
 Example:
-- Login Screen
+- Login Screen  
 - Home Screen
 - Search Screen
 - Playlist Screen
